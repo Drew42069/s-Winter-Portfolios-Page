@@ -1,0 +1,18 @@
+img {
+    width: 200px;
+}
+
+body {
+    background: purple;
+    color: white;
+}
+
+.classes {
+    display: flex;
+    background: black;
+}
+
+h1 {
+    text-align: center;
+}
+p{font-family: 'Solway', serif;}
